@@ -1,0 +1,11 @@
+@import "~normalize.css";
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
