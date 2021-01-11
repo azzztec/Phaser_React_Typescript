@@ -2,10 +2,15 @@
 
 html {
   box-sizing: border-box;
+  font-size: 18px;
 }
 
 *,
 :after,
 :before {
   box-sizing: inherit;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
 }
